@@ -1,0 +1,5 @@
+- Mọi sự giảm cân đều quy về thâm hụt calo (Ưu tiên tính TDEE)
+- Ăn đồ ăn có chỉ số GI cao -> nhanh đói và thèm ăn do insulin được đẩy lên cao
+- Cafe sáng tuyệt đốt ko kết hợp tinh bột -> tăng insulin
+- Đi bộ sau ăn 10ph sẽ giảm insulin 30%
+- 

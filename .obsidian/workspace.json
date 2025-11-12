@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Areas/Sức khỏe/Bài học rút ra khi giảm cân.md",
+                "file": "2.Areas/Sức khỏe/Trải nghiệm giảm cân & lessons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bài học rút ra khi giảm cân"
+              "title": "Trải nghiệm giảm cân & lessons"
             }
           }
         ]
@@ -184,7 +184,8 @@
   "active": "0fce2e00ac877874",
   "lastOpenFiles": [
     "README.md",
-    "2.Areas/Sức khỏe/Bài học rút ra khi giảm cân.md",
+    "2.Areas/Sức khỏe/Trải nghiệm giảm cân & lessons.md",
+    "Untitled.base",
     "3.Resources/Backend",
     "3.Resources/Productivity",
     "3.Resources/Frontend",
@@ -194,7 +195,6 @@
     "2.Areas/Coding",
     "1.Projects/Giảm về 70kg (30-12-2025)",
     "0.Inbox",
-    "1.Projects/Hồi quy đan (30-11-2025)",
     "Untitled.canvas"
   ]
 }
