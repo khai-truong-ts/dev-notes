@@ -6,3 +6,4 @@
 - Đi bộ sau ăn 10ph sẽ giúp ổn định insulin
 - Đi bộ là cách vận động tốt nhất (Tốt hơn nữa thì có phương pháp WiT)
 - Sữa chua chỉ nên dùng sau bữa ăn 2 tiếng
+
