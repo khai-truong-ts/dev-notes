@@ -1,0 +1,13 @@
+/* @settings
+
+name: Your Section Name Here
+id: a-unique-id
+settings:
+    -
+        id: icon
+        title: Bullet Icon
+        description: Text used in bullet points
+        type: variable-text
+        default: -
+        quotes: true
+*/
