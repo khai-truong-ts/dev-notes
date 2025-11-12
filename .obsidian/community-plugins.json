@@ -1,6 +1,5 @@
 [
   "obsidian-git",
-  "obsidian-style-settings",
   "editing-toolbar",
   "table-editor-obsidian",
   "obsidian-outliner",
@@ -12,5 +11,8 @@
   "obsidian-reminder-plugin",
   "obsidian-tasks-plugin",
   "obsidian-icon-folder",
-  "periodic-notes"
+  "periodic-notes",
+  "emoji-shortcodes",
+  "code-styler",
+  "obsidian-style-settings"
 ]
