@@ -177,12 +177,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "yet-another-obsidian-synchronizer:YAOS": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0fce2e00ac877874",
+  "active": "8460e1cb42126cf4",
   "lastOpenFiles": [
+    "Untitled",
     "Untitled.base",
     "README.md",
     "Untitled.canvas"
