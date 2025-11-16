@@ -1,18 +1,14 @@
 [
-  "obsidian-git",
   "editing-toolbar",
+  "cmenu-plugin",
   "table-editor-obsidian",
-  "obsidian-outliner",
   "obsidian-mind-map",
   "mermaid-tools",
   "nldates-obsidian",
-  "obsidian-banners",
-  "obsidian-excalidraw-plugin",
-  "obsidian-reminder-plugin",
-  "obsidian-tasks-plugin",
-  "obsidian-icon-folder",
-  "periodic-notes",
   "emoji-shortcodes",
-  "code-styler",
-  "obsidian-style-settings"
+  "calendar",
+  "obsidian-git",
+  "obsidian-tasks-plugin",
+  "obsidian-kanban",
+  "obsidian-icon-folder"
 ]

@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ec7474e688ef73f7",
+        "id": "0d6e05ce31717933",
         "type": "tabs",
         "children": [
           {
-            "id": "0fce2e00ac877874",
+            "id": "a9d7a3ce944acf5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Areas/Sức khỏe/Trải nghiệm giảm cân & lessons.md",
-                "mode": "source",
-                "source": false
+                "file": "3.Resources/Mindset/Product-Mindset.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Trải nghiệm giảm cân & lessons"
-            }
-          },
-          {
-            "id": "3119e3df3f2c463c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Areas/Sức khỏe/Trải nghiệm giảm cân & lessons.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trải nghiệm giảm cân & lessons"
-            }
-          },
-          {
-            "id": "5f53bc3444250f8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Areas/Sức khỏe/Trải nghiệm giảm cân & lessons.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trải nghiệm giảm cân & lessons"
+              "title": "Product-Mindset"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 358.5
   },
   "right": {
     "id": "c60956c16cb61b2b",
@@ -171,17 +142,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "1.Projects/Học nest.js (10 days)/Ngày 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Ngày 1"
             }
           },
           {
-            "id": "3fd90c94c2398a21",
+            "id": "0066e20f37afb640",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "dcbb433616030481",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -189,44 +170,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "f719a5a0fd703176",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "clock",
-              "title": "Reminders"
-            }
-          },
-          {
-            "id": "19ade7cf1bc43d0c",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
-          },
-          {
-            "id": "05d992d33a9fef43",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,28 +187,50 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5f53bc3444250f8f",
+  "active": "a9d7a3ce944acf5e",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "2025-11-12.md",
-    "Untitled.base",
-    "Excalidraw/Drawing 2025-11-12 13.59.19.excalidraw.md",
-    "2.Areas/Sức khỏe/Trải nghiệm giảm cân & lessons.md",
-    "Excalidraw",
+    "1.Projects/Học nest.js (10 days)/Ngày 1 - Setup.md",
+    "1.Projects/Học nest.js (10 days)/Ngày 3 - DTOs và Validation Pipes.md",
+    "1.Projects/Học nest.js (10 days)/Ngày 4 - TypeORM và Kết nối Database.md",
+    "3.Resources/Mindset/Product-Mindset.md",
+    "3.Resources/Mindset",
+    "1.Projects/Học nest.js (10 days)/Lộ trình 10 ngày.md",
+    "1.Projects/Học nest.js (10 days)/Untitled.md",
+    "1.Projects/Học nest.js (10 days)/Ngày 2 - Routing và Dependency Injection.md",
     "README.md",
+    "3.Resources/Backend/Nest.js",
     "3.Resources/Backend",
-    "3.Resources/Productivity",
-    "3.Resources/Frontend",
-    "2.Areas/Make money",
+    "0.Inbox/TODO 2025-11-15.md",
+    "1.Projects/Học nest.js (10 days)",
+    "1.Projects/Về 70kg cuối năm/Các bài tập.md",
+    "1.Projects/Về 70kg cuối năm/Theo dõi cân nặng.md",
+    "1.Projects/Về 70kg cuối năm/Nhật ký.md",
+    "2025-11-04.md",
+    "1.Projects/Về 70kg cuối năm",
     "2.Areas/Sức khỏe",
-    "2.Areas/Phát triển bản thân",
-    "2.Areas/Coding",
-    "1.Projects/Giảm về 70kg (30-12-2025)"
+    "3.Resources/Health",
+    "2025-11-05.md",
+    "4.Archives/Test.md",
+    "4.Archives/Untitled",
+    "2.Areas/Giảm cân/Theo dõi cân nặng.md",
+    "Untitled.base",
+    "3.Resources/Interview/Inside Paytm Senior Frontend Developer Interview.md",
+    "2.Areas/Giảm cân",
+    "1.Projects/Hồi quy đan (30-12-2025)/Notes.md",
+    "Test it.md",
+    "Hello.md",
+    "1.Projects/Hồi quy đan (30-11-2025)/Nhật ký.md",
+    "2.Areas/Sức khỏe/Hello.md",
+    "Excalidraw/Drawing 2025-11-12 13.59.19.excalidraw.md",
+    "2.Areas/Sức khỏe/tesst.md",
+    "2025-11-12.md",
+    "2.Areas/Sức khỏe/Trải nghiệm giảm cân & lessons.md",
+    "Untitled.canvas"
   ]
 }

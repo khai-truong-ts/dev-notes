@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Minimal"
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "obsidian-default-theme"
+  ]
 }

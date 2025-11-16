@@ -1,3 +1,8 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "showInlineTitle": true,
+  "livePreview": false,
+  "showLineNumber": false,
+  "spellcheck": false,
+  "defaultViewMode": "preview"
 }
